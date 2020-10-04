@@ -1,0 +1,16 @@
+{
+  "orgName": "エムスリーキャリア株式会社",
+  "edition": "Developer",
+  "features": [],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "passwordPolicies": {
+      "enableSetPasswordInApi": true
+    }
+  },
+  "mobileSettings": {
+    "enableS1EncryptedStoragePref2": false
+  }
+}
